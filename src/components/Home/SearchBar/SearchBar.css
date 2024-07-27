@@ -1,5 +1,6 @@
 /* Styles for the search bar container */
 .search-bar-container {
+    padding-top: 10px;
     display: flex;
     justify-content: center;
     margin-bottom: 20px;

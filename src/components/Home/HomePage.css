@@ -27,7 +27,7 @@
     display: flex;
     flex-direction: column; /* Stack rows vertically */
     align-items: center; /* Center rows */
-    padding: 10px; /* Padding around the cards */
+    padding: 5px; /* Padding around the cards */
   }
   
   /* Individual card row styling */
