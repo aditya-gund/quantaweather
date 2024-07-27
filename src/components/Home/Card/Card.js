@@ -11,7 +11,6 @@ const Card = ({ header, text, temperature, highLow, humidity, rainfall, source }
             {highLow && <p>High-Low: {highLow}°C</p>}
             {humidity !== undefined && <p>Humidity: {humidity}%</p>}
             {rainfall !== undefined && <p>Rainfall: {rainfall}mm</p>}
-            {source && <SourceMessage source={source} />}
         </div>
     );
 };

@@ -1,0 +1,11 @@
+.footer {
+    position: fixed; /* Fix the footer to the bottom */
+    bottom: 0; /* Align it to the bottom */
+    left: 0; /* Align to the left */
+    width: 100%; /* Full width */
+    text-align: center; /* Center the text */
+    padding: 10px; /* Add padding */
+    /* background-color: #f1f1f1; Background color */
+    /* box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1); Optional shadow */
+  }
+  
