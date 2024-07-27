@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f0f0; /* Light grey background color */
+    padding: 10px;
+  }
+  
+  .logo {
+    position: absolute;
+    left: 10px; /* Adjust the spacing as needed */
+    height: 50px;
+  }
+  
+  .title {
+    flex-grow: 1;
+    text-align: center;
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
