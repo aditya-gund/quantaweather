@@ -7,126 +7,62 @@
     box-sizing: border-box;
     width: 100%;
     height: 100vh;
-  }
-  
-  /* Styles for the search bar container */
-  .search-bar-container {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 20px;
-    width: 100%;
-    max-width: 600px;
-    box-sizing: border-box;
-    border: 2px solid #000; /* Added border */
-    padding: 10px;
-  }
-  
-  .search-bar {
-    flex-grow: 1;
-    padding: 10px;
-    border: 1px solid #000; /* Added border */
-    border-radius: 4px;
-    box-sizing: border-box;
-  }
-  
-  .search-button {
-    padding: 10px;
-    border: 1px solid #000; /* Added border */
-    border-radius: 4px;
-    margin-left: 10px;
-    background-color: #007BFF;
-    color: white;
-    cursor: pointer;
-    box-sizing: border-box;
-  }
-  
-  .search-button:hover {
-    background-color: #0056b3;
-  }
-  
-  /* Container for the map and cards */
-  .content {
+}
+
+/* Container for the map and cards */
+.content {
     display: flex;
     flex-grow: 1;
     width: 100%;
     box-sizing: border-box;
-  }
-  
-  /* Styles for the map frame */
-  .map-frame {
-    width: 30%;
-    height: 100%;
-    border: 2px solid #000; /* Added border */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    box-sizing: border-box;
-  }
-  
-  /* Styles for the cards container */
-  .cards-container {
+}
+
+/* Styles for the cards container */
+.cards-container {
     display: flex;
     flex-direction: column; /* Stack rows vertically */
     align-items: center; /* Center rows */
     width: 70%; /* Set width to leave space for the map */
     padding: 10px; /* Padding around the cards */
-  }
-  .card-row {
-    display: flex; /* Arrange cards in a row */
-    justify-content: center; /* Center cards in the row */
+}
+
+.card-row {
+    display: flex; /* Use flexbox to arrange cards in a row */
+    justify-content: 5px; /* Space between items */
+    align-items: flex-start; /* Align items at the start */
     width: 100%; /* Full width for rows */
-  }
-  
-  /* Styles for individual cards */
-  .card {
-    width: 100px;
-    height: 100px;
-    border: 2px solid #000; /* Added border */
+    margin-bottom: 10px; /* Space between rows */
+}
+
+.card-header {
+    font-size: 1.2em; /* Adjust font size for headers */
+    font-weight: bold; /* Make header bold */
+    margin-right: 10px; /* Space between header and card */
+    text-align: left; /* Align text to the left */
+}
+
+/* Styles for individual cards */
+.card {
+    width: 200px; /* Card width */
+    height: 180px; /* Card height */
+    margin: 0 5px; /* Margin between cards */
+    padding: 15px; /* Padding inside the card */
+    border: 1px solid #ccc; /* Border for card */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Shadow for card */
     display: flex;
-    align-items: center;
-    justify-content: center;
-    box-sizing: border-box;
-  }
-  
-  /* Responsive styles for small screens */
-  @media (max-width: 768px) {
-    .home-page {
-      padding: 10px;
-    }
-  
-    .search-bar-container {
-      flex-direction: column;
-      padding: 10px;
-    }
-  
-    .search-bar {
-      margin-bottom: 10px;
-      width: 100%;
-    }
-  
-    .search-button {
-      margin-left: 0;
-      width: 100%;
-    }
-  
+    flex-direction: column;
+    justify-content: space-between; /* Space out elements */
+    overflow: hidden; /* Prevent overflow */
+    text-align: left; /* Align text to the left */
+}
+
+
+
+/* Responsive styles for small screens */
+@media (max-width: 768px) {
     .content {
-      flex-direction: column;
-      align-items: center;
+        flex-direction: column;
+        align-items: center;
     }
-  
-    .map-frame {
-      width: 100%;
-      height: 200px;
-    }
-  
-    .cards-container {
-      width: 100%;
-      padding: 10px;
-    }
-  
-    .card {
-      width: 80px;
-      height: 80px;
-    }
-  }
-  
+}

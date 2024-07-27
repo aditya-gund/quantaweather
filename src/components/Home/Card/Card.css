@@ -1,13 +1,40 @@
-/* Styles for individual cards */
+.card-row {
+    display: flex; /* Arrange cards in a row */
+    justify-content: center; /* Center cards in the row */
+    width: 100%; /* Full width for rows */
+}
+
 .card {
-    width: 100px; /* Width of each card */
-    height: 100px; /* Height of each card */
-    border: 2px solid #000; /* Border around the card */
+    width: 200px; /* Card width */
+    height: 200px; /* Card height */
+    margin: 2.5px; /* Small margin between cards for distinction */
+    padding: 10px; /* Inner padding */
+    border: 1px solid #ccc; /* Optional border */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow */
     display: flex;
-    align-items: center; /* Center content vertically */
-    justify-content: center; /* Center content horizontally */
-    box-sizing: border-box;
-    background-color: #e0e0e0; /* Light gray background for cards */
-    margin: 10px; /* Space between cards */
-  }
-  
+    flex-direction: column;
+    justify-content: space-between; /* Space out elements */
+    overflow: hidden; /* Prevent overflow */
+    text-align: left; /* Align text to the left */
+}
+
+
+
+.card-header {
+    font-size: 1.2em; /* Adjust font size for header */
+    margin: 0 0 5px; /* Margin below header */
+}
+
+.not-in-free-service-text {
+    color: red; /* Red text color */
+    font-size: 12px; /* Smaller font size for the message */
+    margin: 0; /* Remove margin */
+    line-height: 1.2; /* Adjust line height for better spacing */
+}
+
+/* Ensure the other card text is also well spaced */
+.card p {
+    margin: 5px 0; /* Margin for paragraph elements */
+    font-size: 14px; /* Font size for readability */
+}

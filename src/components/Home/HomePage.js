@@ -11,26 +11,28 @@ const HomePage = () => {
       <div className="content">
         <Map />
         <div className="cards-container">
+          {/* First row with three cards for Today, Yesterday, and Tomorrow */}
           <div className="card-row">
-            <Card index={0} />
-            <Card index={1} />
-            <Card index={2} />
-            <Card index={3} />
-            <Card index={4} />
+            <Card header="Today" temperature={25} highLow="20-30" humidity={60} rainfall={0} />
+            <Card header="Yesterday" temperature={24} highLow="19-28" humidity={65} rainfall={5} />
+            <Card header="Tomorrow" temperature={26} highLow="21-31" humidity={55} rainfall={0} />
+          </div>
+
+          {/* Additional rows with cards */}
+          <div className="card-row">
+            <Card header="Today" temperature={22} highLow="18-26" humidity={70} rainfall={3} />
+            <Card header="Yesterday" temperature={23} highLow="19-27" humidity={68} rainfall={0} />
+            <Card header="Tomorrow" temperature={21} highLow="17-25" humidity={72} rainfall={4} />
           </div>
           <div className="card-row">
-            <Card index={5} />
-            <Card index={6} />
-            <Card index={7} />
-            <Card index={8} />
-            <Card index={9} />
+            <Card header="Today" temperature={20} highLow="16-24" humidity={75} rainfall={2} />
+            <Card header="Yesterday" temperature={19} highLow="15-23" humidity={80} rainfall={6} />
+            <Card header="Tomorrow"temperature={18} highLow="14-22" humidity={78} rainfall={1} />
           </div>
-          <div className="card-row">
-            <Card index={10} />
-            <Card index={11} />
-            <Card index={12} />
-            <Card index={13} />
-            <Card index={14} />
+       {/* Additional row with two cards for Last 15 Days and Next 15 Days */}
+       <div className="card-row">
+            <Card header="Last 15 Days Weather" text="Not in free service" />
+            <Card header="Next 15 Days Weather" text="Not in free service" />
           </div>
         </div>
       </div>
