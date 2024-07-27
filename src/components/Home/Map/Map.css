@@ -9,4 +9,11 @@
     box-sizing: border-box;
     background-color: #f0f0f0; /* Light gray background */
   }
+  /* Responsive styles for small screens */
+@media (max-width: 768px) {
+  .map-frame {
+      width: 100%; /* Full width for map on small screens */
+      height: 200px; /* Adjust height for mobile */
+  }
+}
   

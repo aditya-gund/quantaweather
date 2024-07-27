@@ -61,8 +61,18 @@
 
 /* Responsive styles for small screens */
 @media (max-width: 768px) {
-    .content {
-        flex-direction: column;
-        align-items: center;
+    .cards-container {
+        width: 100%; /* Full width on small screens */
+    }
+    
+    .card {
+        width: 90%; /* Adjust card width for small screens */
+        height: auto; /* Adjust height to fit content */
+    }
+
+    .map-frame {
+        width: 100%; /* Full width for map on small screens */
+        height: 200px; /* Adjust height for mobile */
     }
 }
+
