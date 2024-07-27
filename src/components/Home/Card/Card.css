@@ -1,0 +1,13 @@
+/* Styles for individual cards */
+.card {
+    width: 100px; /* Width of each card */
+    height: 100px; /* Height of each card */
+    border: 2px solid #000; /* Border around the card */
+    display: flex;
+    align-items: center; /* Center content vertically */
+    justify-content: center; /* Center content horizontally */
+    box-sizing: border-box;
+    background-color: #e0e0e0; /* Light gray background for cards */
+    margin: 10px; /* Space between cards */
+  }
+  
