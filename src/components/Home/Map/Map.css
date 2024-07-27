@@ -1,14 +1,18 @@
-/* Styles for the map frame */
 .map-frame {
-    width: 30%; /* Set to occupy 30% of the screen */
-    height: 50%; /* Full height of the container */
-    border: 2px solid #000; /* Border around the map */
-    display: flex;
-    align-items: center; /* Center content vertically */
-    justify-content: center; /* Center content horizontally */
-    box-sizing: border-box;
-    background-color: #f0f0f0; /* Light gray background */
-  }
+  height: 100%; /* Adjust height as needed */
+  width: 100%; /* Adjust width as needed */
+  border: 1px solid #ccc; /* Optional: add a border to the map frame */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Optional: add shadow for better visual */
+}
+
+/* Make sure the map fits within its parent container */
+.map-container {
+  display: flex;
+  flex-direction: column; /* Ensure that the map can grow vertically if needed */
+  height: 100%; /* Ensure full height */
+  width: 100%; /* Ensure full width */
+}
+
   /* Responsive styles for small screens */
 @media (max-width: 768px) {
   .map-frame {

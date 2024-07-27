@@ -9,7 +9,12 @@ const HomePage = () => {
     <div className="home-page">
       <SearchBar />
       <div className="content">
-        <Map />
+        {/* Map section occupying 30% of the width */}
+        <div className="map-frame">
+          <Map center={[20.9333, 77.7500]} zoom={13} />
+        </div>
+
+        {/* Cards section taking up the rest of the space */}
         <div className="cards-container">
           {/* First row with three cards for Today, Yesterday, and Tomorrow */}
           <div className="card-row">
@@ -18,7 +23,7 @@ const HomePage = () => {
             <Card header="Tomorrow" temperature={26} highLow="21-31" humidity={55} rainfall={0} source="OpenWeather" />
           </div>
 
-          {/* Second rows with cards */}
+          {/* Second row with cards */}
           <div className="card-row">
             <Card header="Today" temperature={22} highLow="18-26" humidity={70} rainfall={3} source="AccuWeather" />
             <Card header="Yesterday" temperature={23} highLow="19-27" humidity={68} rainfall={0} source="AccuWeather"/>
@@ -27,10 +32,10 @@ const HomePage = () => {
           <div className="card-row">
             <Card header="Today" temperature={20} highLow="16-24" humidity={75} rainfall={2} source="IMD"  />
             <Card header="Yesterday" temperature={19} highLow="15-23" humidity={80} rainfall={6} source="IMD" />
-            <Card header="Tomorrow"temperature={18} highLow="14-22" humidity={78} rainfall={1} source="IMD" />
+            <Card header="Tomorrow" temperature={18} highLow="14-22" humidity={78} rainfall={1} source="IMD" />
           </div>
-       {/* Additional row with two cards for Last 15 Days and Next 15 Days */}
-       <div className="card-row">
+          {/* Additional row with two cards for Last 15 Days and Next 15 Days */}
+          <div className="card-row">
             <Card header="Last 15 Days Weather" text="Not in free service"  />
             <Card header="Next 15 Days Weather" text="Not in free service" />
           </div>
