@@ -1,7 +1,7 @@
 /* Styles for the map frame */
 .map-frame {
     width: 30%; /* Set to occupy 30% of the screen */
-    height: 100%; /* Full height of the container */
+    height: 50%; /* Full height of the container */
     border: 2px solid #000; /* Border around the map */
     display: flex;
     align-items: center; /* Center content vertically */
