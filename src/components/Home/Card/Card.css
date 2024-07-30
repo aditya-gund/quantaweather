@@ -20,8 +20,6 @@
     text-align: left; /* Align text to the left */
 }
 
-
-
 .card-header {
     font-size: 1.2em; /* Adjust font size for header */
     margin: 0 0 5px; /* Margin below header */
@@ -38,4 +36,19 @@
 .card p {
     margin: 5px 0; /* Margin for paragraph elements */
     font-size: 14px; /* Font size for readability */
+}
+
+.card {
+    /* Existing card styles */
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 8px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.error-message {
+    color: red;
+    font-weight: bold;
 }

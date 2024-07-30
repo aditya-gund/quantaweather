@@ -1,18 +1,32 @@
+// src/components/Card/Card.js
 import React from 'react';
+import PropTypes from 'prop-types';
 import './Card.css';
-import SourceMessage from '../../SourceMessage/SourceMessage';
 
-const Card = ({ header, text, temperature, highLow, humidity, rainfall, source }) => {
+const Card = ({ header, temperature, highLow, humidity, rainfall, errorMessage }) => {
     return (
         <div className="card">
-            {header && <h3 className="card-header">{header}</h3>}
-            {text && <p className="not-in-free-service-text">{text}</p>}
-            {temperature !== undefined && <p>Temperature: {temperature}°C</p>}
-            {highLow && <p>High-Low: {highLow}°C</p>}
-            {humidity !== undefined && <p>Humidity: {humidity}%</p>}
-            {rainfall !== undefined && <p>Rainfall: {rainfall}mm</p>}
-        </div>
+        <h3>{header}</h3>
+        {errorMessage ? (
+          <p className="error-message">{errorMessage}</p>
+        ) : (
+          <>
+            <p>Temperature: {temperature} °C</p>
+            <p>High/Low: {highLow}°C</p>
+            <p>Humidity: {humidity} %</p>
+            <p>Rainfall: {rainfall} mm</p>
+          </>
+        )}
+      </div>
     );
+};
+
+Card.propTypes = {
+    header: PropTypes.string.isRequired,
+    temperature: PropTypes.number,
+    highLow: PropTypes.string,
+    humidity: PropTypes.number,
+    rainfall: PropTypes.number,
 };
 
 export default Card;

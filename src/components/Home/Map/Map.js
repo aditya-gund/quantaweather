@@ -4,6 +4,7 @@ import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
 import { OpenStreetMapProvider } from 'leaflet-geosearch';
 
+// Update Leaflet icon URLs
 delete L.Icon.Default.prototype._getIconUrl;
 L.Icon.Default.mergeOptions({
   iconRetinaUrl: require('leaflet/dist/images/marker-icon-2x.png'),
@@ -19,21 +20,26 @@ const Map = ({ searchTerm, center = [20.9374, 77.7796], zoom = 8 }) => {
 
   useEffect(() => {
     if (searchTerm) {
-      provider.search({ query: searchTerm }).then((results) => {
-        if (results && results.length > 0) {
-          const { y, x } = results[0];
-          setMapCenter([y, x]);
-          if (mapRef.current) {
-            mapRef.current.flyTo([y, x], 13);  // Zoom level when a location is found
+      // Fetch coordinates for the searched term
+      provider.search({ query: searchTerm })
+        .then((results) => {
+          if (results && results.length > 0) {
+            const { y, x } = results[0];
+            setMapCenter([y, x]);
+            if (mapRef.current) {
+              mapRef.current.flyTo([y, x], 13); // Zoom level when a location is found
+            }
+          } else {
+            console.warn('No results found for the search term:', searchTerm);
           }
-        } else {
-          console.warn('No results found for the search term:', searchTerm);
-        }
-      }).catch((error) => {
-        console.error("Error fetching location:", error);
-      });
+        })
+        .catch((error) => {
+          console.error("Error fetching location:", error);
+        });
+    } else {
+      setMapCenter(center); // Reset to default coordinates if search term is empty
     }
-  }, [searchTerm]);
+  }, [searchTerm, center]);
 
   return (
     <MapContainer 

@@ -1,0 +1,2048 @@
+{
+  "Sheet1":[
+   {
+    "WeatherID": "Sr.No",
+    "Column2": "DISTRICT",
+    "Column3": "TESHSILS",
+    "Column4": "GPS LATITUDE\r\n(NORTH)",
+    "Column5": "GPS LONGITUDE\r\n(EAST)"
+   },
+   {
+    "WeatherID": 1,
+    "Column2": "Amravati",
+    "Column3": "Achalpur",
+    "Column4": "21.274400",
+    "Column5": "77.516600"
+   },
+   {
+    "WeatherID": 2,
+    "Column2": "Amravati",
+    "Column3": "Amravati",
+    "Column4": "20.960600",
+    "Column5": "77.732200"
+   },
+   {
+    "WeatherID": 3,
+    "Column2": "Amravati",
+    "Column3": "Anjangaon",
+    "Column4": "21.172300",
+    "Column5": "77.321200"
+   },
+   {
+    "WeatherID": 4,
+    "Column2": "Amravati",
+    "Column3": "Chandurbazar",
+    "Column4": "21.238700",
+    "Column5": "77.763900"
+   },
+   {
+    "WeatherID": 5,
+    "Column2": "Amravati",
+    "Column3": "Daryapur",
+    "Column4": "20.935200",
+    "Column5": "77.309900"
+   },
+   {
+    "WeatherID": 6,
+    "Column2": "Amravati",
+    "Column3": "Dhamangaon",
+    "Column4": "20.808100",
+    "Column5": "78.151500"
+   },
+   {
+    "WeatherID": 7,
+    "Column2": "Amravati",
+    "Column3": "Dharni",
+    "Column4": "21.516960",
+    "Column5": "76.924243"
+   },
+   {
+    "WeatherID": 8,
+    "Column2": "Amravati",
+    "Column3": "Morshi",
+    "Column4": "21.327200",
+    "Column5": "78.010700"
+   },
+   {
+    "WeatherID": 9,
+    "Column2": "Amravati",
+    "Column3": "Tiosa",
+    "Column4": "21.087900",
+    "Column5": "78.069500"
+   },
+   {
+    "WeatherID": 10,
+    "Column2": "Amravati",
+    "Column3": "Warud",
+    "Column4": "21.478400",
+    "Column5": "78.265700"
+   },
+   {
+    "WeatherID": 11,
+    "Column2": "Yavatmal",
+    "Column3": "Arni",
+    "Column4": "20.138149",
+    "Column5": "77.953590"
+   },
+   {
+    "WeatherID": 12,
+    "Column2": "Yavatmal",
+    "Column3": "Darwha",
+    "Column4": "20.304200",
+    "Column5": "77.777800"
+   },
+   {
+    "WeatherID": 13,
+    "Column2": "Yavatmal",
+    "Column3": "Digras",
+    "Column4": "20.117600",
+    "Column5": "77.682100"
+   },
+   {
+    "WeatherID": 14,
+    "Column2": "Yavatmal",
+    "Column3": "Ghatanji",
+    "Column4": "20.151500",
+    "Column5": "78.322300"
+   },
+   {
+    "WeatherID": 15,
+    "Column2": "Yavatmal",
+    "Column3": "Kelapur",
+    "Column4": "20.022800",
+    "Column5": "78.538300"
+   },
+   {
+    "WeatherID": 16,
+    "Column2": "Yavatmal",
+    "Column3": "Mahagaon",
+    "Column4": "19.854400",
+    "Column5": "77.726800"
+   },
+   {
+    "WeatherID": 17,
+    "Column2": "Yavatmal",
+    "Column3": "Ner",
+    "Column4": "20.526278",
+    "Column5": "77.871918"
+   },
+   {
+    "WeatherID": 18,
+    "Column2": "Yavatmal",
+    "Column3": "Pusad",
+    "Column4": "19.954500",
+    "Column5": "77.500100"
+   },
+   {
+    "WeatherID": 19,
+    "Column2": "Yavatmal",
+    "Column3": "Ralegaon",
+    "Column4": "20.434181",
+    "Column5": "78.492860"
+   },
+   {
+    "WeatherID": 20,
+    "Column2": "Yavatmal",
+    "Column3": "Umarkhed",
+    "Column4": "19.586000",
+    "Column5": "77.687000"
+   },
+   {
+    "WeatherID": 21,
+    "Column2": "Yavatmal",
+    "Column3": "Wani",
+    "Column4": "20.040300",
+    "Column5": "78.977400"
+   },
+   {
+    "WeatherID": 22,
+    "Column2": "Yavatmal",
+    "Column3": "Yavatmal",
+    "Column4": "20.378011",
+    "Column5": "78.068590"
+   },
+   {
+    "WeatherID": 23,
+    "Column2": "Akola",
+    "Column3": "Akola",
+    "Column4": "20.687000",
+    "Column5": "77.054500"
+   },
+   {
+    "WeatherID": 24,
+    "Column2": "Akola",
+    "Column3": "Akot",
+    "Column4": "21.083900",
+    "Column5": "77.057600"
+   },
+   {
+    "WeatherID": 25,
+    "Column2": "Akola",
+    "Column3": "Balapur",
+    "Column4": "20.713000",
+    "Column5": "76.796200"
+   },
+   {
+    "WeatherID": 26,
+    "Column2": "Akola",
+    "Column3": "Murtizapur",
+    "Column4": "20.833100",
+    "Column5": "77.388000"
+   },
+   {
+    "WeatherID": 27,
+    "Column2": "Akola",
+    "Column3": "Patur",
+    "Column4": "20.479100",
+    "Column5": "76.900900"
+   },
+   {
+    "WeatherID": 28,
+    "Column2": "Akola",
+    "Column3": "Telhara",
+    "Column4": "21.126600",
+    "Column5": "76.853400"
+   },
+   {
+    "WeatherID": 29,
+    "Column2": "Washim",
+    "Column3": "Karanja (washim)",
+    "Column4": "20.465700",
+    "Column5": "77.523300"
+   },
+   {
+    "WeatherID": 30,
+    "Column2": "Washim",
+    "Column3": "Malegaon (washim)",
+    "Column4": "20.234700",
+    "Column5": "76.983300"
+   },
+   {
+    "WeatherID": 31,
+    "Column2": "Washim",
+    "Column3": "Mangrulpir",
+    "Column4": "20.295000",
+    "Column5": "77.321900"
+   },
+   {
+    "WeatherID": 32,
+    "Column2": "Washim",
+    "Column3": "Risod",
+    "Column4": "19.979500",
+    "Column5": "76.771100"
+   },
+   {
+    "WeatherID": 33,
+    "Column2": "Washim",
+    "Column3": "Washim",
+    "Column4": "20.111500",
+    "Column5": "77.162000"
+   },
+   {
+    "WeatherID": 34,
+    "Column2": "Buldhana",
+    "Column3": "Buldhana",
+    "Column4": "20.506700",
+    "Column5": "76.201200"
+   },
+   {
+    "WeatherID": 35,
+    "Column2": "Buldhana",
+    "Column3": "Chikhali",
+    "Column4": "20.351900",
+    "Column5": "76.241200"
+   },
+   {
+    "WeatherID": 36,
+    "Column2": "Buldhana",
+    "Column3": "Deulgaon raja",
+    "Column4": "20.107900",
+    "Column5": "76.190300"
+   },
+   {
+    "WeatherID": 37,
+    "Column2": "Buldhana",
+    "Column3": "Jalgaon jamod",
+    "Column4": "21.070830",
+    "Column5": "76.512125"
+   },
+   {
+    "WeatherID": 38,
+    "Column2": "Buldhana",
+    "Column3": "Khamgaon",
+    "Column4": "20.708600",
+    "Column5": "76.585400"
+   },
+   {
+    "WeatherID": 39,
+    "Column2": "Buldhana",
+    "Column3": "Malkapur",
+    "Column4": "20.913500",
+    "Column5": "76.208400"
+   },
+   {
+    "WeatherID": 40,
+    "Column2": "Buldhana",
+    "Column3": "Mehkar",
+    "Column4": "20.153900",
+    "Column5": "76.576200"
+   },
+   {
+    "WeatherID": 41,
+    "Column2": "Buldhana",
+    "Column3": "Motala",
+    "Column4": "20.685300",
+    "Column5": "76.225200"
+   },
+   {
+    "WeatherID": 42,
+    "Column2": "Buldhana",
+    "Column3": "Sangrampur",
+    "Column4": "21.014700",
+    "Column5": "76.715000"
+   },
+   {
+    "WeatherID": 43,
+    "Column2": "Buldhana",
+    "Column3": "Shegaon",
+    "Column4": "20.813866",
+    "Column5": "76.566841"
+   },
+   {
+    "WeatherID": 44,
+    "Column2": "Buldhana",
+    "Column3": "Sindkhed raja",
+    "Column4": "20.005700",
+    "Column5": "76.301400"
+   },
+   {
+    "WeatherID": 45,
+    "Column2": "Aurangabad",
+    "Column3": "Aurangabad rural",
+    "Column4": "19.889800",
+    "Column5": "75.491500"
+   },
+   {
+    "WeatherID": 46,
+    "Column2": "Aurangabad",
+    "Column3": "Gangapur",
+    "Column4": "19.713100",
+    "Column5": "75.008000"
+   },
+   {
+    "WeatherID": 47,
+    "Column2": "Aurangabad",
+    "Column3": "Kannad",
+    "Column4": "20.250000",
+    "Column5": "75.130300"
+   },
+   {
+    "WeatherID": 48,
+    "Column2": "Aurangabad",
+    "Column3": "Khultabad",
+    "Column4": "19.978312",
+    "Column5": "75.214270"
+   },
+   {
+    "WeatherID": 49,
+    "Column2": "Aurangabad",
+    "Column3": "Paithan",
+    "Column4": "19.534870",
+    "Column5": "75.380660"
+   },
+   {
+    "WeatherID": 50,
+    "Column2": "Aurangabad",
+    "Column3": "Phulambri",
+    "Column4": "20.118100",
+    "Column5": "75.470400"
+   },
+   {
+    "WeatherID": 51,
+    "Column2": "Aurangabad",
+    "Column3": "Sillod",
+    "Column4": "20.315500",
+    "Column5": "75.655300"
+   },
+   {
+    "WeatherID": 52,
+    "Column2": "Aurangabad",
+    "Column3": "Soegaon",
+    "Column4": "20.597020",
+    "Column5": "75.605585"
+   },
+   {
+    "WeatherID": 53,
+    "Column2": "Aurangabad",
+    "Column3": "Vaijapur",
+    "Column4": "19.922300",
+    "Column5": "74.712100"
+   },
+   {
+    "WeatherID": 54,
+    "Column2": "Hingoli",
+    "Column3": "Basmath",
+    "Column4": "19.408010",
+    "Column5": "77.216089"
+   },
+   {
+    "WeatherID": 55,
+    "Column2": "Hingoli",
+    "Column3": "Hingoli",
+    "Column4": "19.733400",
+    "Column5": "77.153000"
+   },
+   {
+    "WeatherID": 56,
+    "Column2": "Hingoli",
+    "Column3": "Kalamnuri",
+    "Column4": "19.538340",
+    "Column5": "77.414353"
+   },
+   {
+    "WeatherID": 57,
+    "Column2": "Hingoli",
+    "Column3": "Sengaon",
+    "Column4": "19.835097",
+    "Column5": "76.876202"
+   },
+   {
+    "WeatherID": 58,
+    "Column2": "Parbhani",
+    "Column3": "Gangakhed",
+    "Column4": "18.949400",
+    "Column5": "76.736200"
+   },
+   {
+    "WeatherID": 59,
+    "Column2": "Parbhani",
+    "Column3": "Jintur",
+    "Column4": "19.613000",
+    "Column5": "76.680000"
+   },
+   {
+    "WeatherID": 60,
+    "Column2": "Parbhani",
+    "Column3": "Parbhani",
+    "Column4": "19.279670",
+    "Column5": "76.760520"
+   },
+   {
+    "WeatherID": 61,
+    "Column2": "Parbhani",
+    "Column3": "Pathri",
+    "Column4": "19.278370",
+    "Column5": "76.432480"
+   },
+   {
+    "WeatherID": 62,
+    "Column2": "Parbhani",
+    "Column3": "Purna",
+    "Column4": "19.175400",
+    "Column5": "77.043010"
+   },
+   {
+    "WeatherID": 63,
+    "Column2": "Parbhani",
+    "Column3": "Sonpeth",
+    "Column4": "18.969700",
+    "Column5": "76.493500"
+   },
+   {
+    "WeatherID": 64,
+    "Column2": "Jalna",
+    "Column3": "Ambad",
+    "Column4": "19.616380",
+    "Column5": "75.798510"
+   },
+   {
+    "WeatherID": 65,
+    "Column2": "Jalna",
+    "Column3": "Badnapur",
+    "Column4": "19.865300",
+    "Column5": "75.747300"
+   },
+   {
+    "WeatherID": 66,
+    "Column2": "Jalna",
+    "Column3": "Bhokardan",
+    "Column4": "20.047448",
+    "Column5": "75.859592"
+   },
+   {
+    "WeatherID": 67,
+    "Column2": "Jalna",
+    "Column3": "Ghansavangi",
+    "Column4": "19.516310",
+    "Column5": "75.989540"
+   },
+   {
+    "WeatherID": 68,
+    "Column2": "Jalna",
+    "Column3": "Jafrabad",
+    "Column4": "20.205400",
+    "Column5": "76.008800"
+   },
+   {
+    "WeatherID": 69,
+    "Column2": "Jalna",
+    "Column3": "Jalna",
+    "Column4": "19.867379",
+    "Column5": "75.904616"
+   },
+   {
+    "WeatherID": 70,
+    "Column2": "Jalna",
+    "Column3": "Mantha",
+    "Column4": "19.665406",
+    "Column5": "76.390986"
+   },
+   {
+    "WeatherID": 71,
+    "Column2": "Jalna",
+    "Column3": "Partur",
+    "Column4": "19.595157",
+    "Column5": "76.212681"
+   },
+   {
+    "WeatherID": 72,
+    "Column2": "Beed",
+    "Column3": "Ambajogai",
+    "Column4": "18.748900",
+    "Column5": "76.456100"
+   },
+   {
+    "WeatherID": 73,
+    "Column2": "Latur",
+    "Column3": "Ahmadpur",
+    "Column4": "18.702700",
+    "Column5": "76.923800"
+   },
+   {
+    "WeatherID": 74,
+    "Column2": "Latur",
+    "Column3": "Ausa",
+    "Column4": "18.117200",
+    "Column5": "76.309000"
+   },
+   {
+    "WeatherID": 75,
+    "Column2": "Latur",
+    "Column3": "Chakur",
+    "Column4": "18.523300",
+    "Column5": "76.880100"
+   },
+   {
+    "WeatherID": 76,
+    "Column2": "Latur",
+    "Column3": "Devani",
+    "Column4": "18.255700",
+    "Column5": "76.992300"
+   },
+   {
+    "WeatherID": 77,
+    "Column2": "Latur",
+    "Column3": "Jalkot",
+    "Column4": "18.591020",
+    "Column5": "77.208816"
+   },
+   {
+    "WeatherID": 78,
+    "Column2": "Latur",
+    "Column3": "Latur",
+    "Column4": "18.392100",
+    "Column5": "76.590100"
+   },
+   {
+    "WeatherID": 79,
+    "Column2": "Latur",
+    "Column3": "Nilanga",
+    "Column4": "18.122400",
+    "Column5": "76.767200"
+   },
+   {
+    "WeatherID": 80,
+    "Column2": "Latur",
+    "Column3": "Renapur",
+    "Column4": "18.500600",
+    "Column5": "76.582000"
+   },
+   {
+    "WeatherID": 81,
+    "Column2": "Latur",
+    "Column3": "Udgir",
+    "Column4": "18.361600",
+    "Column5": "77.131100"
+   },
+   {
+    "WeatherID": 82,
+    "Column2": "Beed",
+    "Column3": "Ashti (beed)",
+    "Column4": "18.806400",
+    "Column5": "75.165300"
+   },
+   {
+    "WeatherID": 83,
+    "Column2": "Beed",
+    "Column3": "Beed",
+    "Column4": "18.991300",
+    "Column5": "75.774200"
+   },
+   {
+    "WeatherID": 84,
+    "Column2": "Beed",
+    "Column3": "Gevrai",
+    "Column4": "19.258500",
+    "Column5": "75.757700"
+   },
+   {
+    "WeatherID": 85,
+    "Column2": "Beed",
+    "Column3": "Kaij",
+    "Column4": "18.716900",
+    "Column5": "76.077600"
+   },
+   {
+    "WeatherID": 86,
+    "Column2": "Beed",
+    "Column3": "Majalgaon",
+    "Column4": "19.169100",
+    "Column5": "76.196100"
+   },
+   {
+    "WeatherID": 87,
+    "Column2": "Beed",
+    "Column3": "Parli",
+    "Column4": "18.871300",
+    "Column5": "76.526300"
+   },
+   {
+    "WeatherID": 88,
+    "Column2": "Beed",
+    "Column3": "Patoda",
+    "Column4": "18.806975",
+    "Column5": "75.497821"
+   },
+   {
+    "WeatherID": 89,
+    "Column2": "Beed",
+    "Column3": "Shirur anantpal",
+    "Column4": "18.994200",
+    "Column5": "75.518800"
+   },
+   {
+    "WeatherID": 90,
+    "Column2": "Beed",
+    "Column3": "Wadwani",
+    "Column4": "18.988700",
+    "Column5": "76.178900"
+   },
+   {
+    "WeatherID": 91,
+    "Column2": "Osmanabad",
+    "Column3": "Bhum",
+    "Column4": "18.463700",
+    "Column5": "75.669200"
+   },
+   {
+    "WeatherID": 92,
+    "Column2": "Osmanabad",
+    "Column3": "Kalamb (osmanabad)",
+    "Column4": "18.568100",
+    "Column5": "76.013800"
+   },
+   {
+    "WeatherID": 93,
+    "Column2": "Osmanabad",
+    "Column3": "Lohara",
+    "Column4": "17.985500",
+    "Column5": "76.368600"
+   },
+   {
+    "WeatherID": 94,
+    "Column2": "Osmanabad",
+    "Column3": "Osmanabad",
+    "Column4": "18.083600",
+    "Column5": "76.187700"
+   },
+   {
+    "WeatherID": 95,
+    "Column2": "Osmanabad",
+    "Column3": "Paranda",
+    "Column4": "18.390100",
+    "Column5": "75.420600"
+   },
+   {
+    "WeatherID": 96,
+    "Column2": "Osmanabad",
+    "Column3": "Tuljapur",
+    "Column4": "17.818900",
+    "Column5": "76.262100"
+   },
+   {
+    "WeatherID": 97,
+    "Column2": "Osmanabad",
+    "Column3": "Umarga",
+    "Column4": "17.835300",
+    "Column5": "76.640200"
+   },
+   {
+    "WeatherID": 98,
+    "Column2": "Nanded",
+    "Column3": "Ardhapur",
+    "Column4": "19.277500",
+    "Column5": "77.374200"
+   },
+   {
+    "WeatherID": 99,
+    "Column2": "Nanded",
+    "Column3": "Bhokar",
+    "Column4": "19.199400",
+    "Column5": "77.662300"
+   },
+   {
+    "WeatherID": 100,
+    "Column2": "Nanded",
+    "Column3": "Biloli",
+    "Column4": "18.818400",
+    "Column5": "77.776900"
+   },
+   {
+    "WeatherID": 101,
+    "Column2": "Nanded",
+    "Column3": "Degloor",
+    "Column4": "18.607500",
+    "Column5": "77.570200"
+   },
+   {
+    "WeatherID": 102,
+    "Column2": "Nanded",
+    "Column3": "Hadgaon",
+    "Column4": "19.378900",
+    "Column5": "77.605000"
+   },
+   {
+    "WeatherID": 103,
+    "Column2": "Nanded",
+    "Column3": "Himayatnagar",
+    "Column4": "19.423900",
+    "Column5": "77.889400"
+   },
+   {
+    "WeatherID": 104,
+    "Column2": "Nanded",
+    "Column3": "Kandhar",
+    "Column4": "18.875800",
+    "Column5": "77.178100"
+   },
+   {
+    "WeatherID": 105,
+    "Column2": "Nanded",
+    "Column3": "Kinwat",
+    "Column4": "19.606500",
+    "Column5": "78.206300"
+   },
+   {
+    "WeatherID": 106,
+    "Column2": "Nanded",
+    "Column3": "Mukhed",
+    "Column4": "18.721500",
+    "Column5": "77.391000"
+   },
+   {
+    "WeatherID": 107,
+    "Column2": "Nanded",
+    "Column3": "Naigaon",
+    "Column4": "18.758800",
+    "Column5": "77.565400"
+   },
+   {
+    "WeatherID": 108,
+    "Column2": "Nanded",
+    "Column3": "Nanded",
+    "Column4": "19.181000",
+    "Column5": "77.301300"
+   },
+   {
+    "WeatherID": 109,
+    "Column2": "Nanded",
+    "Column3": "Umari",
+    "Column4": "19.047924",
+    "Column5": "77.653682"
+   },
+   {
+    "WeatherID": 110,
+    "Column2": "Satara",
+    "Column3": "Dahiwadi",
+    "Column4": "17.559500",
+    "Column5": "74.833000"
+   },
+   {
+    "WeatherID": 111,
+    "Column2": "Satara",
+    "Column3": "Karad",
+    "Column4": "17.207800",
+    "Column5": "74.160900"
+   },
+   {
+    "WeatherID": 112,
+    "Column2": "Satara",
+    "Column3": "Khandala",
+    "Column4": "18.124763",
+    "Column5": "73.986159"
+   },
+   {
+    "WeatherID": 113,
+    "Column2": "Satara",
+    "Column3": "Khatav",
+    "Column4": "17.450800",
+    "Column5": "74.544300"
+   },
+   {
+    "WeatherID": 114,
+    "Column2": "Satara",
+    "Column3": "Koregaon",
+    "Column4": "17.707158",
+    "Column5": "74.225521"
+   },
+   {
+    "WeatherID": 115,
+    "Column2": "Satara",
+    "Column3": "Patan",
+    "Column4": "17.346800",
+    "Column5": "74.010600"
+   },
+   {
+    "WeatherID": 116,
+    "Column2": "Satara",
+    "Column3": "Phaltan",
+    "Column4": "17.975500",
+    "Column5": "74.454400"
+   },
+   {
+    "WeatherID": 117,
+    "Column2": "Satara",
+    "Column3": "Satara",
+    "Column4": "17.530400",
+    "Column5": "74.063800"
+   },
+   {
+    "WeatherID": 118,
+    "Column2": "Satara",
+    "Column3": "Wai",
+    "Column4": "17.942305",
+    "Column5": "73.891538"
+   },
+   {
+    "WeatherID": 119,
+    "Column2": "Sangli",
+    "Column3": "Atpadi",
+    "Column4": "17.521010",
+    "Column5": "74.928785"
+   },
+   {
+    "WeatherID": 120,
+    "Column2": "Sangli",
+    "Column3": "Jat",
+    "Column4": "17.055100",
+    "Column5": "75.198000"
+   },
+   {
+    "WeatherID": 121,
+    "Column2": "Sangli",
+    "Column3": "Kadegaon",
+    "Column4": "17.219662",
+    "Column5": "74.370036"
+   },
+   {
+    "WeatherID": 122,
+    "Column2": "Sangli",
+    "Column3": "Kavathe mahankal",
+    "Column4": "16.997200",
+    "Column5": "74.946400"
+   },
+   {
+    "WeatherID": 123,
+    "Column2": "Sangli",
+    "Column3": "Miraj",
+    "Column4": "16.843139",
+    "Column5": "74.597149"
+   },
+   {
+    "WeatherID": 124,
+    "Column2": "Sangli",
+    "Column3": "Palus",
+    "Column4": "17.124220",
+    "Column5": "74.411047"
+   },
+   {
+    "WeatherID": 125,
+    "Column2": "Sangli",
+    "Column3": "Shirala",
+    "Column4": "17.130232",
+    "Column5": "73.935235"
+   },
+   {
+    "WeatherID": 126,
+    "Column2": "Sangli",
+    "Column3": "Tasgaon",
+    "Column4": "17.021967",
+    "Column5": "74.602551"
+   },
+   {
+    "WeatherID": 127,
+    "Column2": "Sangli",
+    "Column3": "Vita",
+    "Column4": "17.214440",
+    "Column5": "74.538630"
+   },
+   {
+    "WeatherID": 128,
+    "Column2": "Sangli",
+    "Column3": "Walwa",
+    "Column4": "17.075428",
+    "Column5": "74.320216"
+   },
+   {
+    "WeatherID": 129,
+    "Column2": "Ratnagiri",
+    "Column3": "Chiplun",
+    "Column4": "17.487358",
+    "Column5": "73.592861"
+   },
+   {
+    "WeatherID": 130,
+    "Column2": "Kolhapur",
+    "Column3": "Ajara",
+    "Column4": "16.256900",
+    "Column5": "74.283300"
+   },
+   {
+    "WeatherID": 131,
+    "Column2": "Kolhapur",
+    "Column3": "Chandgad",
+    "Column4": "15.907600",
+    "Column5": "74.308100"
+   },
+   {
+    "WeatherID": 132,
+    "Column2": "Kolhapur",
+    "Column3": "Gaganbavada",
+    "Column4": "16.586400",
+    "Column5": "73.882700"
+   },
+   {
+    "WeatherID": 133,
+    "Column2": "Kolhapur",
+    "Column3": "Hatkanangale",
+    "Column4": "16.704800",
+    "Column5": "74.458200"
+   },
+   {
+    "WeatherID": 134,
+    "Column2": "Kolhapur",
+    "Column3": "Kagal",
+    "Column4": "16.589700",
+    "Column5": "74.297400"
+   },
+   {
+    "WeatherID": 135,
+    "Column2": "Kolhapur",
+    "Column3": "Karveer",
+    "Column4": "16.714100",
+    "Column5": "74.270500"
+   },
+   {
+    "WeatherID": 136,
+    "Column2": "Kolhapur",
+    "Column3": "Panhala",
+    "Column4": "16.710700",
+    "Column5": "74.041500"
+   },
+   {
+    "WeatherID": 137,
+    "Column2": "Kolhapur",
+    "Column3": "Radhanagari",
+    "Column4": "16.404600",
+    "Column5": "73.960300"
+   },
+   {
+    "WeatherID": 138,
+    "Column2": "Kolhapur",
+    "Column3": "Shahuwadi",
+    "Column4": "16.885600",
+    "Column5": "74.025500"
+   },
+   {
+    "WeatherID": 139,
+    "Column2": "Kolhapur",
+    "Column3": "Shirol",
+    "Column4": "16.768800",
+    "Column5": "74.533900"
+   },
+   {
+    "WeatherID": 140,
+    "Column2": "Ratnagiri",
+    "Column3": "Khed (ratnagiri)",
+    "Column4": "17.603300",
+    "Column5": "73.490900"
+   },
+   {
+    "WeatherID": 141,
+    "Column2": "Ratnagiri",
+    "Column3": "Rajapur",
+    "Column4": "16.727500",
+    "Column5": "73.586200"
+   },
+   {
+    "WeatherID": 142,
+    "Column2": "Ratnagiri",
+    "Column3": "Ratnagiri",
+    "Column4": "16.910600",
+    "Column5": "73.298700"
+   },
+   {
+    "WeatherID": 143,
+    "Column2": "Ratnagiri",
+    "Column3": "Sangameshwar",
+    "Column4": "17.316600",
+    "Column5": "73.518200"
+   },
+   {
+    "WeatherID": 144,
+    "Column2": "Sindhudurg",
+    "Column3": "Devgad",
+    "Column4": "16.391400",
+    "Column5": "73.486400"
+   },
+   {
+    "WeatherID": 145,
+    "Column2": "Sindhudurg",
+    "Column3": "Dodamarg",
+    "Column4": "15.748947",
+    "Column5": "74.055488"
+   },
+   {
+    "WeatherID": 146,
+    "Column2": "Sindhudurg",
+    "Column3": "Kankavli",
+    "Column4": "16.257200",
+    "Column5": "73.715200"
+   },
+   {
+    "WeatherID": 147,
+    "Column2": "Sindhudurg",
+    "Column3": "Kudal",
+    "Column4": "15.997000",
+    "Column5": "73.682400"
+   },
+   {
+    "WeatherID": 148,
+    "Column2": "Sindhudurg",
+    "Column3": "Sawantwadi",
+    "Column4": "15.855600",
+    "Column5": "73.837400"
+   },
+   {
+    "WeatherID": 149,
+    "Column2": "Nagpur",
+    "Column3": "Bhiwapur",
+    "Column4": "20.825589",
+    "Column5": "79.529494"
+   },
+   {
+    "WeatherID": 150,
+    "Column2": "Nagpur",
+    "Column3": "Hingna",
+    "Column4": "20.932100",
+    "Column5": "78.947612"
+   },
+   {
+    "WeatherID": 151,
+    "Column2": "Nagpur",
+    "Column3": "Kalmeshwar",
+    "Column4": "21.233104",
+    "Column5": "78.895171"
+   },
+   {
+    "WeatherID": 152,
+    "Column2": "Nagpur",
+    "Column3": "Katol",
+    "Column4": "21.288702",
+    "Column5": "78.593285"
+   },
+   {
+    "WeatherID": 153,
+    "Column2": "Nagpur",
+    "Column3": "Kuhi",
+    "Column4": "21.015030",
+    "Column5": "79.599550"
+   },
+   {
+    "WeatherID": 154,
+    "Column2": "Nagpur",
+    "Column3": "Mouda",
+    "Column4": "21.163410",
+    "Column5": "79.378387"
+   },
+   {
+    "WeatherID": 155,
+    "Column2": "Nagpur",
+    "Column3": "Nagpur rural",
+    "Column4": "21.142967",
+    "Column5": "78.968090"
+   },
+   {
+    "WeatherID": 156,
+    "Column2": "Nagpur",
+    "Column3": "Narkhed",
+    "Column4": "21.348951",
+    "Column5": "78.468821"
+   },
+   {
+    "WeatherID": 157,
+    "Column2": "Nagpur",
+    "Column3": "Parseoni",
+    "Column4": "21.224745",
+    "Column5": "79.246233"
+   },
+   {
+    "WeatherID": 158,
+    "Column2": "Nagpur",
+    "Column3": "Ramtek",
+    "Column4": "21.394211",
+    "Column5": "79.281263"
+   },
+   {
+    "WeatherID": 159,
+    "Column2": "Nagpur",
+    "Column3": "Saoner",
+    "Column4": "21.405286",
+    "Column5": "78.857783"
+   },
+   {
+    "WeatherID": 160,
+    "Column2": "Nagpur",
+    "Column3": "Umred",
+    "Column4": "20.805500",
+    "Column5": "79.054000"
+   },
+   {
+    "WeatherID": 161,
+    "Column2": "Bhandara",
+    "Column3": "Bhandara",
+    "Column4": "21.138800",
+    "Column5": "79.673000"
+   },
+   {
+    "WeatherID": 162,
+    "Column2": "Bhandara",
+    "Column3": "Lakhandur",
+    "Column4": "20.763221",
+    "Column5": "79.889557"
+   },
+   {
+    "WeatherID": 163,
+    "Column2": "Bhandara",
+    "Column3": "Mohadi",
+    "Column4": "21.230526",
+    "Column5": "79.640200"
+   },
+   {
+    "WeatherID": 164,
+    "Column2": "Bhandara",
+    "Column3": "Paoni",
+    "Column4": "20.803388",
+    "Column5": "79.725639"
+   },
+   {
+    "WeatherID": 165,
+    "Column2": "Bhandara",
+    "Column3": "Sakoli",
+    "Column4": "21.090255",
+    "Column5": "80.000614"
+   },
+   {
+    "WeatherID": 166,
+    "Column2": "Bhandara",
+    "Column3": "Tumsar",
+    "Column4": "21.335760",
+    "Column5": "79.779193"
+   },
+   {
+    "WeatherID": 167,
+    "Column2": "Gondia",
+    "Column3": "Amgaon",
+    "Column4": "21.372730",
+    "Column5": "80.391220"
+   },
+   {
+    "WeatherID": 168,
+    "Column2": "Gondia",
+    "Column3": "Arjuni morgaon",
+    "Column4": "20.819240",
+    "Column5": "80.015619"
+   },
+   {
+    "WeatherID": 169,
+    "Column2": "Gondia",
+    "Column3": "Gondia",
+    "Column4": "21.478070",
+    "Column5": "80.136540"
+   },
+   {
+    "WeatherID": 170,
+    "Column2": "Gondia",
+    "Column3": "Tirora",
+    "Column4": "21.440995",
+    "Column5": "79.887583"
+   },
+   {
+    "WeatherID": 171,
+    "Column2": "Nagpur",
+    "Column3": "Kamptee",
+    "Column4": "21.246610",
+    "Column5": "79.097042"
+   },
+   {
+    "WeatherID": 172,
+    "Column2": "Nagpur",
+    "Column3": "Nagpur urban",
+    "Column4": "21.145000",
+    "Column5": "79.169000"
+   },
+   {
+    "WeatherID": 173,
+    "Column2": "Chandrapur",
+    "Column3": "Ballarpur",
+    "Column4": "19.876040",
+    "Column5": "79.334570"
+   },
+   {
+    "WeatherID": 174,
+    "Column2": "Chandrapur",
+    "Column3": "Bhadrawati",
+    "Column4": "20.135460",
+    "Column5": "79.157740"
+   },
+   {
+    "WeatherID": 175,
+    "Column2": "Chandrapur",
+    "Column3": "Bramhapuri",
+    "Column4": "20.622170",
+    "Column5": "79.848090"
+   },
+   {
+    "WeatherID": 176,
+    "Column2": "Chandrapur",
+    "Column3": "Chandrapur",
+    "Column4": "19.929910",
+    "Column5": "79.117500"
+   },
+   {
+    "WeatherID": 177,
+    "Column2": "Chandrapur",
+    "Column3": "Korpana",
+    "Column4": "19.737500",
+    "Column5": "79.157200"
+   },
+   {
+    "WeatherID": 178,
+    "Column2": "Chandrapur",
+    "Column3": "Mul",
+    "Column4": "20.066200",
+    "Column5": "79.688000"
+   },
+   {
+    "WeatherID": 179,
+    "Column2": "Chandrapur",
+    "Column3": "Nagbhid",
+    "Column4": "20.581110",
+    "Column5": "79.705870"
+   },
+   {
+    "WeatherID": 180,
+    "Column2": "Chandrapur",
+    "Column3": "Rajura",
+    "Column4": "19.644180",
+    "Column5": "79.422240"
+   },
+   {
+    "WeatherID": 181,
+    "Column2": "Chandrapur",
+    "Column3": "Sindewahi",
+    "Column4": "20.294040",
+    "Column5": "79.656530"
+   },
+   {
+    "WeatherID": 182,
+    "Column2": "Chandrapur",
+    "Column3": "Warora",
+    "Column4": "20.233700",
+    "Column5": "79.018700"
+   },
+   {
+    "WeatherID": 183,
+    "Column2": "Gadchiroli",
+    "Column3": "Aheri",
+    "Column4": "19.106050",
+    "Column5": "80.142690"
+   },
+   {
+    "WeatherID": 184,
+    "Column2": "Gadchiroli",
+    "Column3": "Chamorshi",
+    "Column4": "19.665400",
+    "Column5": "79.798800"
+   },
+   {
+    "WeatherID": 185,
+    "Column2": "Gadchiroli",
+    "Column3": "Desaiganj",
+    "Column4": "20.602060",
+    "Column5": "79.961080"
+   },
+   {
+    "WeatherID": 186,
+    "Column2": "Gadchiroli",
+    "Column3": "Etapalli",
+    "Column4": "19.586340",
+    "Column5": "80.224700"
+   },
+   {
+    "WeatherID": 187,
+    "Column2": "Gadchiroli",
+    "Column3": "Gadchiroli",
+    "Column4": "20.132710",
+    "Column5": "79.944460"
+   },
+   {
+    "WeatherID": 188,
+    "Column2": "Gadchiroli",
+    "Column3": "Sironcha",
+    "Column4": "18.837090",
+    "Column5": "79.970570"
+   },
+   {
+    "WeatherID": 189,
+    "Column2": "Wardha",
+    "Column3": "Arvi",
+    "Column4": "20.990700",
+    "Column5": "78.226400"
+   },
+   {
+    "WeatherID": 190,
+    "Column2": "Wardha",
+    "Column3": "Ashti (wardha)",
+    "Column4": "21.098600",
+    "Column5": "78.200300"
+   },
+   {
+    "WeatherID": 191,
+    "Column2": "Wardha",
+    "Column3": "Deoli",
+    "Column4": "20.664400",
+    "Column5": "78.477700"
+   },
+   {
+    "WeatherID": 192,
+    "Column2": "Wardha",
+    "Column3": "Hinganghat",
+    "Column4": "20.537300",
+    "Column5": "78.798220"
+   },
+   {
+    "WeatherID": 193,
+    "Column2": "Wardha",
+    "Column3": "Karanja (wardha)",
+    "Column4": "21.605300",
+    "Column5": "78.235600"
+   },
+   {
+    "WeatherID": 194,
+    "Column2": "Wardha",
+    "Column3": "Samudrapur",
+    "Column4": "20.613250",
+    "Column5": "78.920550"
+   },
+   {
+    "WeatherID": 195,
+    "Column2": "Wardha",
+    "Column3": "Selu (wardha)",
+    "Column4": "20.833290",
+    "Column5": "78.698910"
+   },
+   {
+    "WeatherID": 196,
+    "Column2": "Wardha",
+    "Column3": "Wardha",
+    "Column4": "20.706370",
+    "Column5": "78.627950"
+   },
+   {
+    "WeatherID": 197,
+    "Column2": "Ahmednagar",
+    "Column3": "Akole",
+    "Column4": "19.546502",
+    "Column5": "73.761861"
+   },
+   {
+    "WeatherID": 198,
+    "Column2": "Nashik",
+    "Column3": "Baglan\/ satana",
+    "Column4": "20.723600",
+    "Column5": "74.311000"
+   },
+   {
+    "WeatherID": 199,
+    "Column2": "Nashik",
+    "Column3": "Chandwad",
+    "Column4": "20.270600",
+    "Column5": "74.263200"
+   },
+   {
+    "WeatherID": 200,
+    "Column2": "Nashik",
+    "Column3": "Dindori",
+    "Column4": "20.207800",
+    "Column5": "73.821000"
+   },
+   {
+    "WeatherID": 201,
+    "Column2": "Nashik",
+    "Column3": "Igatpuri",
+    "Column4": "19.695400",
+    "Column5": "73.601000"
+   },
+   {
+    "WeatherID": 202,
+    "Column2": "Nashik",
+    "Column3": "Kalwan",
+    "Column4": "20.489300",
+    "Column5": "74.028700"
+   },
+   {
+    "WeatherID": 203,
+    "Column2": "Nashik",
+    "Column3": "Malegaon (nashik)",
+    "Column4": "20.560400",
+    "Column5": "74.502100"
+   },
+   {
+    "WeatherID": 204,
+    "Column2": "Nashik",
+    "Column3": "Nandgaon",
+    "Column4": "20.269715",
+    "Column5": "74.455965"
+   },
+   {
+    "WeatherID": 205,
+    "Column2": "Nashik",
+    "Column3": "Nashik",
+    "Column4": "19.989500",
+    "Column5": "73.743100"
+   },
+   {
+    "WeatherID": 206,
+    "Column2": "Nashik",
+    "Column3": "Niphad",
+    "Column4": "20.107500",
+    "Column5": "73.941900"
+   },
+   {
+    "WeatherID": 207,
+    "Column2": "Nashik",
+    "Column3": "Sinnar",
+    "Column4": "19.871400",
+    "Column5": "73.974200"
+   },
+   {
+    "WeatherID": 208,
+    "Column2": "Nashik",
+    "Column3": "Yeola",
+    "Column4": "20.052300",
+    "Column5": "74.478000"
+   },
+   {
+    "WeatherID": 209,
+    "Column2": "Ahmednagar",
+    "Column3": "Jamkhed",
+    "Column4": "18.648300",
+    "Column5": "75.472700"
+   },
+   {
+    "WeatherID": 210,
+    "Column2": "Ahmednagar",
+    "Column3": "Karjat (ahmednagar)",
+    "Column4": "18.567195",
+    "Column5": "74.999566"
+   },
+   {
+    "WeatherID": 211,
+    "Column2": "Ahmednagar",
+    "Column3": "Kopargaon",
+    "Column4": "19.897200",
+    "Column5": "74.485200"
+   },
+   {
+    "WeatherID": 212,
+    "Column2": "Ahmednagar",
+    "Column3": "Nagar",
+    "Column4": "19.068100",
+    "Column5": "74.714600"
+   },
+   {
+    "WeatherID": 213,
+    "Column2": "Ahmednagar",
+    "Column3": "Newasa",
+    "Column4": "19.561400",
+    "Column5": "74.923800"
+   },
+   {
+    "WeatherID": 214,
+    "Column2": "Ahmednagar",
+    "Column3": "Parner",
+    "Column4": "18.952200",
+    "Column5": "74.538700"
+   },
+   {
+    "WeatherID": 215,
+    "Column2": "Ahmednagar",
+    "Column3": "Rahata",
+    "Column4": "19.569000",
+    "Column5": "74.502100"
+   },
+   {
+    "WeatherID": 216,
+    "Column2": "Ahmednagar",
+    "Column3": "Rahuri",
+    "Column4": "19.375100",
+    "Column5": "74.648100"
+   },
+   {
+    "WeatherID": 217,
+    "Column2": "Ahmednagar",
+    "Column3": "Sangamner",
+    "Column4": "19.588400",
+    "Column5": "74.199900"
+   },
+   {
+    "WeatherID": 218,
+    "Column2": "Ahmednagar",
+    "Column3": "Shevgaon",
+    "Column4": "19.178934",
+    "Column5": "75.172462"
+   },
+   {
+    "WeatherID": 219,
+    "Column2": "Ahmednagar",
+    "Column3": "Shrigonda",
+    "Column4": "18.607800",
+    "Column5": "74.692400"
+   },
+   {
+    "WeatherID": 220,
+    "Column2": "Ahmednagar",
+    "Column3": "Shrirampur",
+    "Column4": "19.533300",
+    "Column5": "74.691800"
+   },
+   {
+    "WeatherID": 221,
+    "Column2": "Jalgaon",
+    "Column3": "Amalner",
+    "Column4": "21.027444",
+    "Column5": "75.036361"
+   },
+   {
+    "WeatherID": 222,
+    "Column2": "Jalgaon",
+    "Column3": "Bhusawal",
+    "Column4": "21.034667",
+    "Column5": "75.919111"
+   },
+   {
+    "WeatherID": 223,
+    "Column2": "Jalgaon",
+    "Column3": "Bodwad",
+    "Column4": "20.884111",
+    "Column5": "75.988944"
+   },
+   {
+    "WeatherID": 224,
+    "Column2": "Jalgaon",
+    "Column3": "Chalisgaon",
+    "Column4": "20.803170",
+    "Column5": "75.699280"
+   },
+   {
+    "WeatherID": 225,
+    "Column2": "Jalgaon",
+    "Column3": "Chopda",
+    "Column4": "21.245556",
+    "Column5": "75.308167"
+   },
+   {
+    "WeatherID": 226,
+    "Column2": "Jalgaon",
+    "Column3": "Dharangaon",
+    "Column4": "21.019194",
+    "Column5": "75.257722"
+   },
+   {
+    "WeatherID": 227,
+    "Column2": "Jalgaon",
+    "Column3": "Erandol",
+    "Column4": "20.886434",
+    "Column5": "75.329335"
+   },
+   {
+    "WeatherID": 228,
+    "Column2": "Jalgaon",
+    "Column3": "Jalgaon",
+    "Column4": "20.998556",
+    "Column5": "75.583444"
+   },
+   {
+    "WeatherID": 229,
+    "Column2": "Jalgaon",
+    "Column3": "Jamner",
+    "Column4": "20.698694",
+    "Column5": "75.669194"
+   },
+   {
+    "WeatherID": 230,
+    "Column2": "Jalgaon",
+    "Column3": "Muktainagar",
+    "Column4": "21.045611",
+    "Column5": "76.049806"
+   },
+   {
+    "WeatherID": 231,
+    "Column2": "Jalgaon",
+    "Column3": "Pachora",
+    "Column4": "20.679750",
+    "Column5": "75.344833"
+   },
+   {
+    "WeatherID": 232,
+    "Column2": "Jalgaon",
+    "Column3": "Parola",
+    "Column4": "20.889583",
+    "Column5": "75.111639"
+   },
+   {
+    "WeatherID": 233,
+    "Column2": "Jalgaon",
+    "Column3": "Raver",
+    "Column4": "21.138028",
+    "Column5": "75.893167"
+   },
+   {
+    "WeatherID": 234,
+    "Column2": "Jalgaon",
+    "Column3": "Yawal",
+    "Column4": "21.177389",
+    "Column5": "75.705250"
+   },
+   {
+    "WeatherID": 235,
+    "Column2": "Dhule",
+    "Column3": "Dhule",
+    "Column4": "20.865000",
+    "Column5": "74.771000"
+   },
+   {
+    "WeatherID": 236,
+    "Column2": "Dhule",
+    "Column3": "Sakri",
+    "Column4": "20.995400",
+    "Column5": "74.327600"
+   },
+   {
+    "WeatherID": 237,
+    "Column2": "Dhule",
+    "Column3": "Shirpur",
+    "Column4": "21.350700",
+    "Column5": "74.946500"
+   },
+   {
+    "WeatherID": 238,
+    "Column2": "Dhule",
+    "Column3": "Sindkheda",
+    "Column4": "21.331700",
+    "Column5": "74.548400"
+   },
+   {
+    "WeatherID": 239,
+    "Column2": "Nandurbar",
+    "Column3": "Nandurbar",
+    "Column4": "21.399800",
+    "Column5": "74.264400"
+   },
+   {
+    "WeatherID": 240,
+    "Column2": "Nandurbar",
+    "Column3": "Navapur",
+    "Column4": "21.183600",
+    "Column5": "73.950100"
+   },
+   {
+    "WeatherID": 241,
+    "Column2": "Nandurbar",
+    "Column3": "Shahada",
+    "Column4": "21.536000",
+    "Column5": "74.460100"
+   },
+   {
+    "WeatherID": 242,
+    "Column2": "Nandurbar",
+    "Column3": "Taloda",
+    "Column4": "21.585500",
+    "Column5": "74.214300"
+   },
+   {
+    "WeatherID": 243,
+    "Column2": "Pune",
+    "Column3": "Bhor",
+    "Column4": "18.257300",
+    "Column5": "73.902200"
+   },
+   {
+    "WeatherID": 244,
+    "Column2": "Pune",
+    "Column3": "Maval",
+    "Column4": "18.728300",
+    "Column5": "73.671600"
+   },
+   {
+    "WeatherID": 245,
+    "Column2": "Pune",
+    "Column3": "Mulshi",
+    "Column4": "18.523900",
+    "Column5": "73.669100"
+   },
+   {
+    "WeatherID": 246,
+    "Column2": "Pune",
+    "Column3": "Velha",
+    "Column4": "18.387500",
+    "Column5": "73.613900"
+   },
+   {
+    "WeatherID": 247,
+    "Column2": "Pune",
+    "Column3": "Haveli",
+    "Column4": "18.637200",
+    "Column5": "74.037100"
+   },
+   {
+    "WeatherID": 248,
+    "Column2": "Pune",
+    "Column3": "Pune city",
+    "Column4": "18.478281",
+    "Column5": "73.956689"
+   },
+   {
+    "WeatherID": 249,
+    "Column2": "Pune",
+    "Column3": "Purandar",
+    "Column4": "18.282000",
+    "Column5": "74.138700"
+   },
+   {
+    "WeatherID": 250,
+    "Column2": "Pune",
+    "Column3": "Khed (pune)",
+    "Column4": "18.740100",
+    "Column5": "73.841100"
+   },
+   {
+    "WeatherID": 251,
+    "Column2": "Pune",
+    "Column3": "Ambegaon",
+    "Column4": "18.993673",
+    "Column5": "73.999904"
+   },
+   {
+    "WeatherID": 252,
+    "Column2": "Pune",
+    "Column3": "Junnar",
+    "Column4": "19.107300",
+    "Column5": "73.971300"
+   },
+   {
+    "WeatherID": 253,
+    "Column2": "Pune",
+    "Column3": "Shirur",
+    "Column4": "18.826900",
+    "Column5": "74.368100"
+   },
+   {
+    "WeatherID": 254,
+    "Column2": "Solapur",
+    "Column3": "Akkalkot",
+    "Column4": "17.528200",
+    "Column5": "76.199000"
+   },
+   {
+    "WeatherID": 255,
+    "Column2": "Solapur",
+    "Column3": "Barshi",
+    "Column4": "18.250200",
+    "Column5": "75.701400"
+   },
+   {
+    "WeatherID": 256,
+    "Column2": "Solapur",
+    "Column3": "Karmala",
+    "Column4": "18.302400",
+    "Column5": "74.962900"
+   },
+   {
+    "WeatherID": 257,
+    "Column2": "Solapur",
+    "Column3": "Madha",
+    "Column4": "18.098800",
+    "Column5": "75.432100"
+   },
+   {
+    "WeatherID": 258,
+    "Column2": "Solapur",
+    "Column3": "Malshiras",
+    "Column4": "17.868400",
+    "Column5": "74.856900"
+   },
+   {
+    "WeatherID": 259,
+    "Column2": "Solapur",
+    "Column3": "Mangalwedha",
+    "Column4": "17.520500",
+    "Column5": "75.441600"
+   },
+   {
+    "WeatherID": 260,
+    "Column2": "Solapur",
+    "Column3": "Mohol",
+    "Column4": "17.799800",
+    "Column5": "75.638400"
+   },
+   {
+    "WeatherID": 261,
+    "Column2": "Solapur",
+    "Column3": "North solapur",
+    "Column4": "17.664500",
+    "Column5": "75.796400"
+   },
+   {
+    "WeatherID": 262,
+    "Column2": "Solapur",
+    "Column3": "Pandharpur",
+    "Column4": "17.656800",
+    "Column5": "75.326700"
+   },
+   {
+    "WeatherID": 263,
+    "Column2": "Solapur",
+    "Column3": "Sangole",
+    "Column4": "17.446432",
+    "Column5": "75.191036"
+   },
+   {
+    "WeatherID": 264,
+    "Column2": "Solapur",
+    "Column3": "South solapur",
+    "Column4": "17.497900",
+    "Column5": "75.827300"
+   },
+   {
+    "WeatherID": 265,
+    "Column2": "Pune",
+    "Column3": "Baramati",
+    "Column4": "18.167200",
+    "Column5": "74.593900"
+   },
+   {
+    "WeatherID": 266,
+    "Column2": "Pune",
+    "Column3": "Daund",
+    "Column4": "18.461039",
+    "Column5": "74.569338"
+   },
+   {
+    "WeatherID": 267,
+    "Column2": "Pune",
+    "Column3": "Indapur",
+    "Column4": "18.077388",
+    "Column5": "74.774557"
+   },
+   {
+    "WeatherID": 268,
+    "Column2": "Mumbai suburban",
+    "Column3": "Borivali",
+    "Column4": "19.214500",
+    "Column5": "72.880600"
+   },
+   {
+    "WeatherID": 269,
+    "Column2": "Mumbai suburban",
+    "Column3": "Kurla",
+    "Column4": "19.000800",
+    "Column5": "72.904300"
+   },
+   {
+    "WeatherID": 270,
+    "Column2": "Thane",
+    "Column3": "Thane",
+    "Column4": "19.121600",
+    "Column5": "73.007300"
+   },
+   {
+    "WeatherID": 271,
+    "Column2": "Thane",
+    "Column3": "Bhiwandi",
+    "Column4": "19.289300",
+    "Column5": "73.069800"
+   },
+   {
+    "WeatherID": 272,
+    "Column2": "Palghar",
+    "Column3": "Dahanu",
+    "Column4": "19.982300",
+    "Column5": "72.751300"
+   },
+   {
+    "WeatherID": 273,
+    "Column2": "Palghar",
+    "Column3": "Jawhar",
+    "Column4": "19.593730",
+    "Column5": "73.140780"
+   },
+   {
+    "WeatherID": 274,
+    "Column2": "Palghar",
+    "Column3": "Palghar",
+    "Column4": "19.799800",
+    "Column5": "72.732900"
+   },
+   {
+    "WeatherID": 275,
+    "Column2": "Palghar",
+    "Column3": "Vasai",
+    "Column4": "19.387400",
+    "Column5": "72.833200"
+   },
+   {
+    "WeatherID": 276,
+    "Column2": "Palghar",
+    "Column3": "Wada",
+    "Column4": "19.638600",
+    "Column5": "73.129400"
+   },
+   {
+    "WeatherID": 277,
+    "Column2": "Raigad",
+    "Column3": "Alibaug",
+    "Column4": "18.701800",
+    "Column5": "72.876200"
+   },
+   {
+    "WeatherID": 278,
+    "Column2": "Raigad",
+    "Column3": "Khalapur",
+    "Column4": "18.794300",
+    "Column5": "73.326800"
+   },
+   {
+    "WeatherID": 279,
+    "Column2": "Raigad",
+    "Column3": "Panvel",
+    "Column4": "19.084400",
+    "Column5": "73.134200"
+   },
+   {
+    "WeatherID": 280,
+    "Column2": "Raigad",
+    "Column3": "Pen",
+    "Column4": "18.812100",
+    "Column5": "73.094200"
+   },
+   {
+    "WeatherID": 281,
+    "Column2": "Raigad",
+    "Column3": "Sudhagad",
+    "Column4": "18.630600",
+    "Column5": "73.289000"
+   },
+   {
+    "WeatherID": 282,
+    "Column2": "Raigad",
+    "Column3": "Uran",
+    "Column4": "18.880700",
+    "Column5": "72.970700"
+   },
+   {
+    "WeatherID": 283,
+    "Column2": "Raigad",
+    "Column3": "Roha",
+    "Column4": "18.551300",
+    "Column5": "73.114500"
+   },
+   {
+    "WeatherID": 284,
+    "Column2": "Raigad",
+    "Column3": "Karjat (raigad)",
+    "Column4": "18.985900",
+    "Column5": "73.375600"
+   },
+   {
+    "WeatherID": 285,
+    "Column2": "Thane",
+    "Column3": "Ambarnath",
+    "Column4": "19.202100",
+    "Column5": "73.203700"
+   },
+   {
+    "WeatherID": 286,
+    "Column2": "Thane",
+    "Column3": "Kalyan",
+    "Column4": "19.207100",
+    "Column5": "73.101700"
+   },
+   {
+    "WeatherID": 287,
+    "Column2": "Thane",
+    "Column3": "Murbad",
+    "Column4": "19.259400",
+    "Column5": "73.389800"
+   },
+   {
+    "WeatherID": 288,
+    "Column2": "Thane",
+    "Column3": "Shahapur",
+    "Column4": "19.455800",
+    "Column5": "73.341600"
+   },
+   {
+    "WeatherID": 289,
+    "Column2": "Raigad",
+    "Column3": "Mahad",
+    "Column4": "18.105800",
+    "Column5": "73.490100"
+   },
+   {
+    "WeatherID": 290,
+    "Column2": "Raigad",
+    "Column3": "Mangaon",
+    "Column4": "18.353700",
+    "Column5": "73.324000"
+   },
+   {
+    "WeatherID": 291,
+    "Column2": "Raigad",
+    "Column3": "Mhasla",
+    "Column4": "18.156000",
+    "Column5": "73.102900"
+   }
+  ]
+  }
